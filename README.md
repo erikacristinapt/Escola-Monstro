@@ -7,4 +7,4 @@ HTML:5, CSS3 e Javascript
 
 
 
-<img =src"https://github.com/erikacristinapt/Escola-Monstro/blob/master/img/Escola%20monstro(dark).png?raw=true">
+<img src="https://github.com/erikacristinapt/Escola-Monstro/blob/master/img/Escola%20monstro(dark).png?raw=true" />
